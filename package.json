@@ -28,7 +28,7 @@
     "@aws-cdk/aws-sns": "^1.192.0",
     "@aws-cdk/aws-sns-subscriptions": "^1.192.0",
     "@aws-cdk/core": "^1.191.0",
-    "aws-cdk-lib": "^2.61.1",
+    "aws-cdk-lib": "^2.80.0",
     "source-map-support": "^0.5.16"
   }
 }
